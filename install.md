@@ -12,4 +12,11 @@ listed disfferent anime charaters and positions (have many many)
 
 npx image-dataset --listFile list.txt (Run the file)
 pop out the chorme to search out the list of pictures
-auto add downloaded folder, search the picture put all into this filder
+auto add downloaded folder, search the picture put all into this folder
+
+check all picture size: 
+file *png / jpeg
+
+cd > different picture's folder
+ls-l : see the size
+ls-lh : see how big
