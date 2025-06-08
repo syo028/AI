@@ -1,8 +1,11 @@
+gitignore: node_modules, downloaded,db_sqlite3*,package-lock.json
+pnpm-lock.yaml
+
+command dairy:
 npm init --yes
 npm install image-dataset : packageson added one line for dataset
 
 
-gitignore: node_modual, downloaded
 
 npx image-dataset  --help : show outline how to install
 npx image-dataset [options] :
@@ -20,3 +23,7 @@ file *png / jpeg
 cd > different picture's folder
 ls-l : see the size
 ls-lh : see how big
+
+
+npmjs.com
+histogram-chart (bonus)
