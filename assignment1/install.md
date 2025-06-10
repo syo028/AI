@@ -3,7 +3,7 @@ pnpm-lock.yaml
 
 command dairy:
 npm init --yes
-npm install image-dataset : packageson added one line for dataset
+npm install image-dataset : packageJson added one line for dataset
 
 
 

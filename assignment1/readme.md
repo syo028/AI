@@ -1,15 +1,16 @@
-# 習作一：自動搜集圖像數據集與初步處理
+## 習作一：自動搜集圖像數據集與初步處理
 
 ## 學生資料
 
 -姓名：Chan Tak Ying
 -學號：23816781
 -主題編號：1
-- 主題名稱：人類/人形動漫角色，各類型的性別和職業
+-主題名稱：人類/人形動漫角色，各類型的性別和職業
 
 
 ## 程式運行記錄
 
+https://docs.google.com/document/d/1V3XVEePhso1YH5DSuup4MzY3QvWW11VRJMdmusXHKtM/edit?usp=sharing
 <!-- 在此處插入運行日誌或截圖 -->
 
 ## 功能完成度自評

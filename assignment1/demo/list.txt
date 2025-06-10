@@ -1,0 +1,10 @@
+Anime Warrior/Samurai
+Anime Mage/Wizard
+Anime Doctor/Nurse
+Anime Student
+Anime Scientist/Researcher
+Anime Adventurer
+Anime Civilian Occupation
+Anime Police Officer/Detective
+Anime Artist/Musician
+Anime Superhero/Villain

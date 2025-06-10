@@ -1,0 +1,5 @@
+node_modules
+downloaded
+db_sqlite3*
+package-lock.json
+pnpm-lock.yaml
