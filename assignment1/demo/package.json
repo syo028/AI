@@ -11,6 +11,8 @@
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
-    "image-dataset": "^1.8.0"
+    "fs-extra": "^11.3.0",
+    "image-dataset": "^1.8.0",
+    "sharp": "^0.34.2"
   }
 }
