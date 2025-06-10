@@ -31,9 +31,9 @@ https://docs.google.com/document/d/1V3XVEePhso1YH5DSuup4MzY3QvWW11VRJMdmusXHKtM/
 
 - 下載和儲檔（20 分）
 
-  - [ ] 成功下載 3000 至 5000 個圖像
-  - [ ] 圖像儲存在相應的文件夾
-  - [ ] 列出收集的圖像數量
+  - [x] 成功下載 3000 至 5000 個圖像
+  - [x] 圖像儲存在相應的文件夾
+  - [x] 列出收集的圖像數量
 
 - 調整和裁剪（20 分）
 

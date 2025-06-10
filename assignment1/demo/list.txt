@@ -1,10 +1,10 @@
-Anime Warrior/Samurai
-Anime Mage/Wizard
-Anime Doctor/Nurse
-Anime Student
-Anime Scientist/Researcher
-Anime Adventurer
-Anime Civilian Occupation
-Anime Police Officer/Detective
-Anime Artist/Musician
-Anime Superhero/Villain
+動漫劍士
+動漫魔法師
+動漫運動員
+動漫偵探
+動漫忍者
+動漫廚師
+動漫科學家
+動漫冒險者
+動漫警察
+動漫音樂家
