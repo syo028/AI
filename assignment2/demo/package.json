@@ -1,7 +1,7 @@
 {
   "name": "demo",
   "version": "1.0.0",
-  "description": "",
+  "description": "-姓名：Chan Tak Ying\r -學號：23816781\r -主題編號：1\r -主題名稱：人類/人形動漫角色，各類型的性別和職業",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
